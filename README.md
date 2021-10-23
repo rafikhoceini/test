@@ -6,11 +6,11 @@ The purpose of this algorithm is to dictate which elevator should be sent when s
 
 To run the program, you need the following:
 
-
 •	Visual Studio Code
 •	Command Prompt
 •	C# extension
 •	.NET 5.0
+
 
 
 ###Usage
