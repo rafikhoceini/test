@@ -1,4 +1,4 @@
-since i added comment at the end, github created another folder that takes to the battery column elevator that have comments on them, look at file that has 
+since i added comment at the end, github created another folder that takes to the battery column elevator that have comments on them, look at file that says "comments made all done"
 
 #Description
 
