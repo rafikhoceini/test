@@ -18,6 +18,8 @@ To run the program, you need the following:
 
 First, make sure you have access to the folder your project is at in command prompt
 Second, simply type: dotnet test 
+
+
 You test should run and it should look something like that:
 
  
