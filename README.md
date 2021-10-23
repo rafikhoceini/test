@@ -21,5 +21,7 @@ First, make sure you have access to the folder your project is at in command pro
 
 Second, simply type: dotnet test You test should run and it should look something like that:
 
+![122128889-3edfa500-ce03-11eb-97d0-df0cc6a79fed](https://user-images.githubusercontent.com/91087010/138535994-e85f0192-9f22-44cf-a9f5-ce818035507c.png)
+
  
 
