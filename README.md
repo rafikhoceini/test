@@ -5,6 +5,8 @@ The purpose of this algorithm is to dictate which elevator should be sent when s
 ###Dependencies
 
 To run the program, you need the following:
+
+
 •	Visual Studio Code
 •	Command Prompt
 •	C# extension
